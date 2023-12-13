@@ -1,0 +1,33 @@
+1.1) Jak dzielimy zmienne w Javie? 
+Na obiekty i prymitywne typy danych.
+Prymitywne typy danych:
+byte
+short
+int
+long
+char
+double
+float
+boolean
+
+1.2)Skąd wynika różnica w pisowni wielką literą typu String?
+Bo String to obiekt
+
+2) Jakie są wielkości poszczególnych typów
+byte -> 8 bitów
+short -> 16 bitów
+int -> 32 bity
+long -> 64 bity
+char -> 16 bitów
+float -> 32 bity
+double -> 64 bity
+boolean -> 1 bit
+3) Jakie są zakresy wartości możliwych do przechowywania dla poszczególnych typów
+byte -> od -128 do 127
+short -> od -32768 do 32767
+int -> od -2147483648 do 2147483647
+long -> od -9223372036854775808 do 9223372036854775807
+char -> 1 znak unicode
+double -> od 4.9 * 10^-324 do 1.7976931348623157*10^308
+float -> od 1.4 * 10^-45 do 3.4028235*10^38
+boolean -> true/false
